@@ -1,5 +1,6 @@
 # Pollution APP,
 The app shows ten most polluted cities in selected country.  Functionality is limited to only four countries: Poland, Germany, France and Spain. App displays current pm25 parameters.
+App was created using React library.
 
 Live version is available on: https://michal-barwicki.github.io/pollution-app/
 
