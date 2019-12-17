@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pollution-app/static/css/main.090e5f5c.chunk.css",
+    "main.js": "/pollution-app/static/js/main.651f9d9b.chunk.js",
+    "main.js.map": "/pollution-app/static/js/main.651f9d9b.chunk.js.map",
+    "runtime-main.js": "/pollution-app/static/js/runtime-main.aabf3ed1.js",
+    "runtime-main.js.map": "/pollution-app/static/js/runtime-main.aabf3ed1.js.map",
+    "static/js/2.84bcb3f6.chunk.js": "/pollution-app/static/js/2.84bcb3f6.chunk.js",
+    "static/js/2.84bcb3f6.chunk.js.map": "/pollution-app/static/js/2.84bcb3f6.chunk.js.map",
+    "index.html": "/pollution-app/index.html",
+    "precache-manifest.a9185254194f75938437511fab54af2a.js": "/pollution-app/precache-manifest.a9185254194f75938437511fab54af2a.js",
+    "service-worker.js": "/pollution-app/service-worker.js",
+    "static/css/main.090e5f5c.chunk.css.map": "/pollution-app/static/css/main.090e5f5c.chunk.css.map",
+    "static/js/2.84bcb3f6.chunk.js.LICENSE": "/pollution-app/static/js/2.84bcb3f6.chunk.js.LICENSE",
+    "static/media/App.scss": "/pollution-app/static/media/industry.be0354d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aabf3ed1.js",
+    "static/js/2.84bcb3f6.chunk.js",
+    "static/css/main.090e5f5c.chunk.css",
+    "static/js/main.651f9d9b.chunk.js"
+  ]
+}
