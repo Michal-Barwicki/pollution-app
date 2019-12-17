@@ -1,0 +1,27 @@
+.city-item {
+    margin-top: 1rem;
+    padding: .6rem;
+    border-radius: 3px 3px 0 0;
+    background-color: $color-grey-3;
+    color: $color-white;
+    cursor: pointer;
+    transition: all .3s;
+
+    &:hover {
+        background-color: $color-primary-dark;
+    }
+
+    &:active{
+        opacity: .7
+    }
+
+    &__description {
+        padding: .6rem .6rem .2rem .6rem;
+        border-radius: 0 0 3px 3px;
+        background-color: $color-grey-2;
+    }
+    
+    &__value {
+        float: right;
+    }
+}

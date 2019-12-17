@@ -1,0 +1,17 @@
+$color-primary-light: rgb(210, 0, 0);
+$color-primary-dark: rgb(150, 5, 5);
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+$color-grey-1: #777;
+$color-grey-2: #999;
+$color-grey-3: #222;
+
+$color-white: #eee;
+$color-black: #000;
+
+
+@import "./containers/App.scss";
+@import "./components/CityItem/CityItem.scss";
+@import "./components/SearchBox/SearchBox.scss";
